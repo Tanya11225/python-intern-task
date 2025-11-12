@@ -14,7 +14,7 @@ if not users:
     print("No users returned.")
     exit(0)
 
-print("📋 All Users")
+print(" All Users")
 print("=" * 50)
 
 for i, u in enumerate(users, 1):
@@ -48,4 +48,5 @@ if s_users:
         print(f"City: {u['address']['city']}")
         print("-" * 40)
 else:
+
     print("None found.")
