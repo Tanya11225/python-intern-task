@@ -50,3 +50,85 @@ if s_users:
 else:
 
     print("None found.")
+
+
+# output
+"""
+All Users
+==================================================
+User 1:
+Name: Leanne Graham
+Username: Bret
+Email: Sincere@april.biz
+City: Gwenborough
+----------------------------------------
+User 2:
+Name: Ervin Howell
+Username: Antonette
+Email: Shanna@melissa.tv
+City: Wisokyburgh
+----------------------------------------
+User 3:
+Name: Clementine Bauch
+Username: Samantha
+Email: Nathan@yesenia.net
+City: McKenziehaven
+----------------------------------------
+User 4:
+Name: Patricia Lebsack
+Username: Karianne
+Email: Julianne.OConner@kory.org
+City: South Elvis
+----------------------------------------
+User 5:
+Name: Chelsey Dietrich
+Username: Kamren
+Email: Lucio_Hettinger@annie.ca
+City: Roscoeview
+----------------------------------------
+User 6:
+Name: Mrs. Dennis Schulist
+Username: Leopoldo_Corkery
+Email: Karley_Dach@jasper.info
+City: South Christy
+----------------------------------------
+User 7:
+Name: Kurtis Weissnat
+Username: Elwyn.Skiles
+Email: Telly.Hoeger@billy.biz
+City: Howemouth
+----------------------------------------
+User 8:
+Name: Nicholas Runolfsdottir V
+Username: Maxime_Nienow
+Email: Sherwood@rosamond.me
+City: Aliyaview
+----------------------------------------
+User 9:
+Name: Glenna Reichert
+Username: Delphine
+Email: Chaim_McDermott@dana.io
+City: Bartholomebury
+----------------------------------------
+User 10:
+Name: Clementina DuBuque
+Username: Moriah.Stanton
+Email: Rey.Padberg@karina.biz
+City: Lebsackbury
+----------------------------------------
+
+ Bonus: Cities starting with 'S'
+==================================================
+User 1:
+Name: Patricia Lebsack
+Username: Karianne
+Email: Julianne.OConner@kory.org
+City: South Elvis
+----------------------------------------
+User 2:
+Name: Mrs. Dennis Schulist
+Username: Leopoldo_Corkery
+Email: Karley_Dach@jasper.info
+City: South Christy
+----------------------------------------
+"""
